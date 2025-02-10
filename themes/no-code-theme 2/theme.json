@@ -10,24 +10,24 @@
 			"defaultDuotone": false,
 			"palette": [
 				{
-					"slug": "base",
+					"slug": "black",
 					"color": "#1e1e1e",
-					"name": "Base"
+					"name": "Black"
 				},
 				{
-					"slug": "contrast",
+					"slug": "white",
 					"color": "#f0f0f0",
-					"name": "Contrast"
+					"name": "White"
 				},
 				{
-					"slug": "primary",
+					"slug": "darkGreen",
 					"color": "#718e64",
-					"name": "Primary"
+					"name": "Dark Green"
 				},
 				{
-					"slug": "secondary",
+					"slug": "lightGreen",
 					"color": "#d3d6bc",
-					"name": "Secondary"
+					"name": "Light Green"
 				}
 			]
 		},
