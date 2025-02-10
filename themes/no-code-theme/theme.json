@@ -6,6 +6,7 @@
 		"useRootPaddingAwareAlignments": true,
 		"color": {
 			"palette": [
+				
 				{
 					"slug": "black",
 					"color": "#1e1e1e",
@@ -25,8 +26,17 @@
 					"slug": "white",
 					"color": "#f0f0f0",
 					"name": "White"
+				},
+				{
+					"slug": "primary",
+					"color": "#0073aa",
+					"name": "Primary"
+				},
+				{
+					"slug": "secondary",
+					"color": "#00a0d2",
+					"name": "Secondary"
 				}
-			
 			]
 		},
 		"layout": {
