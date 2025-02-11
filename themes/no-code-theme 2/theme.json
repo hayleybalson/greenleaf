@@ -46,9 +46,9 @@
 					"fontFamily": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif"
 				},
 				{
-					"name": "Antic Didone",
-					"slug": "Antic Didone",
-					"fontFamily": "Antic Didone"
+					"name": "Antic Slab",
+					"slug": "Antic Slab",
+					"fontFamily": "Antic Slab"
 				}
 			]
 		}
